@@ -1,10 +1,15 @@
 # > bilibili Intl
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,biliapi.net
-DOMAIN,p.bstarstatic.com
-DOMAIN,p-bstarstatic.akamaized.net
-DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN,upos-bstar-mirrorakam.akamaized.net
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biligame.com 
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,api.sobot.com
+DOMAIN-SUFFIX,p.bstarstatic.com
+DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
+DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,ios.bugly.qq.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilibili.com
