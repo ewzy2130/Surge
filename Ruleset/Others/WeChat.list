@@ -1,4 +1,8 @@
 # > WeChat
+DOMAIN,szshort.weixin.qq.com
+DOMAIN,szextshort.weixin.qq.com
+DOMAIN,szminorshort.weixin.qq.com
+DOMAIN,mp.weixin.qq.com
 DOMAIN,dl.wechat.com
 DOMAIN,sglong.wechat.com
 DOMAIN,sgminorshort.wechat.com
