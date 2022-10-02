@@ -13,3 +13,5 @@ DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,ios.bugly.qq.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilibili.com
+DOMAIN,api.bilibili.tv
+IP-CIDR,203.107.1.0/24,no-resolve
